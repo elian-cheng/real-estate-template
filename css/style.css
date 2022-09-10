@@ -894,7 +894,7 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
 }
 .item-reviews {
-  color: inherit;
+  cursor: pointer;
   padding: 50px 40px;
   background: #ffffff;
   border: 1px solid #ebebeb;
